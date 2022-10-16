@@ -1,9 +1,13 @@
 # 2205551022_I-Kadek-Nanda-Surya-Agusta_Tugas-Alprog-Fungsi
 
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #define PHI 3.14
+
 //Fungsi Segitiga
+
 float luas_segitiga(float alas, float tinggi){
 	
 	float luas;
